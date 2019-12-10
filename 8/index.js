@@ -1,3 +1,4 @@
+// @ts-check
 const common = require('../common.js');
 
 /**
